@@ -1,0 +1,9 @@
+- Finir le projet de retourner le meilleur profil rapidement
+  - il reste les maths à faire donc prendre la note et le nombre d'avis, faire un algorithme à partir de ça
+- Réaliser un **Profiler**
+  - Pour chaque page, requêter la page profil de chaque annonce, on se limite 5 pages max
+  - Pour chaque profil, récupérer le plus d'informations possible: 
+  - Aggrèger toutes les compétences
+  - Affichage des 5 plus récurrentes avec une visualisation dans Dash
+  - Pour 2 catégories
+  - 
